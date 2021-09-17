@@ -1,0 +1,176 @@
+.all{
+    width: auto;
+    height: 700px;
+    background-color: #fff1ff;
+}
+.img1 img {
+    width: 300px;
+    height: 200px;
+    border: 1px solid plum;
+    float: left;
+    margin: 0 15px 0 0;
+    padding: 8px;
+
+}
+
+.img2 img {
+    width: 300px;
+    height: 200px;
+    border: 1px solid plum;
+    float: right;
+    margin: 0 15px 0 0;
+    padding: 8px;
+}
+
+.img3 img {
+    width: 300px;
+    height: 200px;
+    border: 1px solid plum;
+  
+    margin: 0 15px 0 0;
+    padding: 8px;
+  
+
+}
+
+.img4 img {
+    width: 300px;
+    height: 200px;
+    border: 1px solid plum;
+    float: left;
+    margin: 0 15px 0 0;
+    padding: 8px;
+}
+
+.img5 img {
+    width: 300px;
+    height: 200px;
+    border: 1px solid plum;
+    float: right;
+    margin: 0 15px 0 0;
+    padding: 8px;
+}
+
+.corpo {
+    width: auto;
+    height: 960px;
+    background-color: #fff1ff;
+
+}
+
+.titulo {
+    border: 1px solid plum;
+    position: relative;
+    margin: 0 15px 10px 0;
+    padding: 8px;
+
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.pt1 {
+    border: 1px solid plum;
+
+    margin: 0 15px 0 0;
+    padding: 8px;
+    margin-left: 0;
+    width: auto;
+    float: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    overflow: auto;
+}
+
+.pt1 img {
+    width: 300px;
+    height: 200px;
+    border: 1px solid plum;
+    margin: 0 15px 0 0;
+    padding: 8px;
+    float: left;
+}
+
+.pt2 {
+    border: 1px solid plum;
+
+
+    margin: 0 15px 0 0;
+    padding: 8px;
+    margin-left: 0;
+    width: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    overflow: auto;
+}
+
+.bloco {
+    background-color: red;
+    width: 300px;
+    height: 200px;
+    border: 1px solid plum;
+    margin: 0 15px 0 0;
+    padding: 8px;
+    float: right;
+
+}
+.pt3 {
+    border: 1px solid plum;
+    margin: 0 15px 0 0;
+    padding: 8px;
+    margin-left: 0;
+    width: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    overflow: auto;
+}
+.pt3 img{
+    width: 300px;
+    height: 200px;
+    border: 1px solid plum;
+    margin: 0 15px 0 0;
+    padding: 8px;
+    float: left;
+}
+.imagem3 img{
+    width: 300px;
+    height: 200px;
+    border: 1px solid plum;
+    margin: 0 15px 0 0;
+    padding: 8px;
+    float: right;
+}
+
+.tudo{
+    width: auto;
+    height: 702px;
+    background-color: #fff1ff;
+    border: 1px solid rgb(0,0,0);
+}
+
+.cabecalho{
+    background-color: rgb(248, 245, 198);
+    border-bottom: 1px solid rgb(0, 0, 0);
+    position: relative;
+   
+    width: auto;
+    height: 100px;
+  
+}
+.lateral{
+    background-color: rgb(248, 198, 198);
+    border-right:1px solid rgb(0, 0, 0);
+    position: relative;
+   
+    width: 400px;
+    height: 500px;
+    
+}
+.rodape{
+    background-color: rgb(198, 214, 248);
+    border-top: 1px solid rgb(0, 0, 0);
+    position: relative;
+   
+    width: auto;
+    height: 100px;
+  
+}
